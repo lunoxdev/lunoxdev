@@ -1,8 +1,9 @@
 <div align="center">
-<!--   <img src="https://github.com/SeungMin2001/SeungMin2001/blob/main/image/Animation%20-%201738929258402.gif"> -->
-<!--   <br> -->
-  <p>
-    I would like to change the world but they won't give me the source code.
-  </p>
+  
+  ![bg-github](https://github.com/user-attachments/assets/a371d21d-a3b4-4692-afbb-220d83800ffc)
+  
+  <h3>iGaming Front End Developer | AI | Blockchain</h3>
+  I would like to change the world but they won't give me the source code
+  <br />
+  ♤♧♡♢
 </div>
-
