@@ -3,7 +3,7 @@
   <!-- Banner -->
   <img src="https://github.com/user-attachments/assets/a371d21d-a3b4-4692-afbb-220d83800ffc" />
 
-  <h3>iGaming Mid Full-Stack Developer</h3>
+  <h3>iGaming Senior Frontend Developer</h3>
   <i>I would like to change the world but they won't give me the source code</i>
   <br />
   ♤♧♡♢
@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="center">
-        <img width="260" alt="Image" src="https://github.com/user-attachments/assets/e5ac727c-0473-4bbc-9001-e36b21929746" />
+        <img width="260" alt="Image" src="https://github.com/user-attachments/assets/b813dbff-cb4f-4183-96e4-d529e604a8ee" />
         <br />
         <strong>TrebolBets</strong>
         <br />
