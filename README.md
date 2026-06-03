@@ -29,6 +29,13 @@
         <a href="https://twinkeys-portal.bluebirdarena.com/">Visit</a>
       </td>
       <td align="center">
+        <img width="260" alt="Mi Casa de Apuesta" src="https://github.com/user-attachments/assets/33f985d6-df78-4500-b1be-fb541d8ea530" />
+        <br />
+        <strong>Fathom</strong>
+        <br />
+        <a href="https://fathom-game.vercel.app">Visit</a>
+      </td>
+      <td align="center">
         <img width="260" alt="Chicken Road" src="https://github.com/user-attachments/assets/ccd95f7e-5022-4106-a68e-f88d1bf11ff0" />
         <br />
         <strong>Chicken Road</strong>
@@ -42,6 +49,8 @@
         <br />
         <a href="https://plinko-demo.vercel.app/">Visit</a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img width="260" alt="Mi Casa de Apuesta" src="https://github.com/user-attachments/assets/21b29bd1-ceff-4ea1-b41e-eeb26c9f465e" />
         <br />
@@ -49,8 +58,6 @@
         <br />
         <a href="https://www.trebolbets.com/juegos/minas">Visit</a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img width="260" alt="Dice" src="https://github.com/user-attachments/assets/3a7f8e08-5ece-41d1-b54d-7305a0e4b9ac" />
         <br />
@@ -78,13 +85,6 @@
         <strong>Rock, Paper, Scissors</strong>
         <br />
         <a href="https://www.trebolbets.com/juegos/piedra-papel-tijera">Visit</a>
-      </td>
-      <td align="center">
-        <img width="260" alt="Mi Casa de Apuesta" src="https://github.com/user-attachments/assets/f4781990-eea7-4c28-ae1a-ed207acf78a0" />
-        <br />
-        <strong>Mi Casa de Apuesta</strong>
-        <br />
-        <a href="https://micasadeapuesta.pe">Visit</a>
       </td>
     </tr>
   </table>
