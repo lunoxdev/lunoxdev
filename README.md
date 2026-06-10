@@ -42,6 +42,8 @@
         <br />
         <a href="https://black-hawk-down.vercel.app">Visit</a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img width="260" alt="Chicken Road" src="https://github.com/user-attachments/assets/ccd95f7e-5022-4106-a68e-f88d1bf11ff0" />
         <br />
@@ -49,8 +51,6 @@
         <br />
         <a href="https://chicken-road-demo.vercel.app/">Visit</a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img width="260" alt="Plinko" src="https://github.com/user-attachments/assets/7400b773-eb52-4bbe-af98-84341f1631b3" />
         <br />
@@ -66,25 +66,11 @@
         <a href="https://www.trebolbets.com/juegos/minas">Visit</a>
       </td>
       <td align="center">
-        <img width="260" alt="Dice" src="https://github.com/user-attachments/assets/3a7f8e08-5ece-41d1-b54d-7305a0e4b9ac" />
-        <br />
-        <strong>Dice</strong>
-        <br />
-        <a href="https://www.trebolbets.com/juegos/dado">Visit</a>
-      </td>
-      <td align="center">
         <img width="260" alt="HiLo" src="https://github.com/user-attachments/assets/e489c75f-65c2-44e8-9b21-3f1543d2dd52" />
         <br />
         <strong>HiLo</strong>
         <br />
         <a href="https://www.trebolbets.com/juegos/mayor-menor">Visit</a>
-      </td>
-      <td align="center">
-        <img width="260" alt="CoinFlip" src="https://github.com/user-attachments/assets/accf7407-57bf-4b30-95a6-6c747a3bd0be" />
-        <br />
-        <strong>CoinFlip</strong>
-        <br />
-        <a href="https://www.trebolbets.com/juegos/cara-o-cruz">Visit</a>
       </td>
     </tr>
   </table>
