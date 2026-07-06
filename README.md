@@ -42,6 +42,13 @@
     </tr>
     <tr>
       <td align="center">
+        <img width="260" alt="HiLo" src="https://github.com/user-attachments/assets/f74ab912-5dc9-4d4c-aad7-bec4658d16c9" />
+        <br />
+        <strong>Skeleton King</strong>
+        <br />
+        <a href="https://skeleton-king-game.vercel.app/?sessionID=test123&rgs_url=test&lang=en&demo=true">Visit</a>
+      </td>
+      <td align="center">
         <img width="260" alt="Chicken Road" src="https://github.com/user-attachments/assets/ccd95f7e-5022-4106-a68e-f88d1bf11ff0" />
         <br />
         <strong>Chicken Road</strong>
@@ -61,13 +68,6 @@
         <strong>Mines</strong>
         <br />
         <a href="https://www.trebolbets.com/juegos/minas">Visit</a>
-      </td>
-      <td align="center">
-        <img width="260" alt="HiLo" src="https://github.com/user-attachments/assets/e489c75f-65c2-44e8-9b21-3f1543d2dd52" />
-        <br />
-        <strong>HiLo</strong>
-        <br />
-        <a href="https://www.trebolbets.com/juegos/mayor-menor">Visit</a>
       </td>
     </tr>
   </table>
