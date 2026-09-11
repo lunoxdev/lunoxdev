@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3>iGaming Game Developer</h3>
+  <h3>iGaming Frontend & Game Developer</h3>
   <i>I would like to change the world but they won't give me the source code</i>
   <br />
   ♤♧♡♢
