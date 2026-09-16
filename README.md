@@ -44,9 +44,9 @@
       <td align="center">
         <img width="260" alt="HiLo" src="https://github.com/user-attachments/assets/f74ab912-5dc9-4d4c-aad7-bec4658d16c9" />
         <br />
-        <strong>Skeleton King</strong>
+        <strong>Cursed Ruins</strong>
         <br />
-        <a href="https://skeleton-king-slot.vercel.app/?sessionID=test123&rgs_url=test&lang=en&demo=true">Visit</a>
+        <a href="https://cursed-ruins-slot.vercel.app/?sessionID=test123&rgs_url=test&lang=en&demo=true">Visit</a>
       </td>
       <td align="center">
         <img width="260" alt="Chicken Road" src="https://github.com/user-attachments/assets/ccd95f7e-5022-4106-a68e-f88d1bf11ff0" />
