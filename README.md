@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Casinos -->
-  <h3>Casinos</h3>
+  <h3>CASINOS</h3>
 
   <table>
     <tr>
@@ -24,7 +24,7 @@
   <br />
 
   <!-- Games -->
-  <h3>Games</h3>
+  <h3>GAMES</h3>
 
   <table>
     <tr>
