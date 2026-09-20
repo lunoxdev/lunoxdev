@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img width="260" alt="HiLo" src="https://github.com/user-attachments/assets/f74ab912-5dc9-4d4c-aad7-bec4658d16c9" />
+        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/36d22dfa-e0ee-4daf-823b-a23363b66cfb" />
         <br />
         <strong>Cursed Ruins</strong>
         <br />
