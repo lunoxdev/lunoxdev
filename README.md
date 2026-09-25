@@ -43,7 +43,7 @@
         <a href="https://black-hawk-down.vercel.app">Visit</a>
       </td>
       <td align="center">
-        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/36d22dfa-e0ee-4daf-823b-a23363b66cfb" />
+        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/a24a6a89-9c32-4326-8fc0-b27cd6a71a9c" />
         <br />
         <strong>Cursed Ruins</strong>
         <br />
@@ -52,18 +52,18 @@
     </tr>
     <tr>
       <td align="center">
-        <img width="260" alt="Chicken Road" src="https://github.com/user-attachments/assets/ccd95f7e-5022-4106-a68e-f88d1bf11ff0" />
-        <br />
-        <strong>Chicken Road</strong>
-        <br />
-        <a href="https://chicken-road-demo.vercel.app/">Visit</a>
-      </td>
-      <td align="center">
         <img width="260" alt="Plinko" src="https://github.com/user-attachments/assets/7400b773-eb52-4bbe-af98-84341f1631b3" />
         <br />
         <strong>Plinko</strong>
         <br />
         <a href="https://plinko-demo.vercel.app/">Visit</a>
+      </td>
+      <td align="center">
+        <img width="260" alt="Chicken Road" src="https://github.com/user-attachments/assets/ccd95f7e-5022-4106-a68e-f88d1bf11ff0" />
+        <br />
+        <strong>Chicken Road</strong>
+        <br />
+        <a href="https://chicken-road-demo.vercel.app/">Visit</a>
       </td>
       <td align="center">
         <img width="260" alt="Mines" src="https://github.com/user-attachments/assets/21b29bd1-ceff-4ea1-b41e-eeb26c9f465e" />
