@@ -29,6 +29,13 @@
   <table>
     <tr>
       <td align="center">
+        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/fab5d671-c9a3-4383-a165-e23ccd2175be" />
+        <br />
+        <strong>Cursed Ruins</strong>
+        <br />
+        <a href="https://cursed-ruins-slot.vercel.app/?sessionID=test123&rgs_url=test&lang=en&demo=true">Visit</a>
+      </td>
+      <td align="center">
         <img width="260" alt="Fathom" src="https://github.com/user-attachments/assets/33f985d6-df78-4500-b1be-fb541d8ea530" />
         <br />
         <strong>Fathom</strong>
@@ -41,13 +48,6 @@
         <strong>Black Hawk Down</strong>
         <br />
         <a href="https://black-hawk-down.vercel.app">Visit</a>
-      </td>
-      <td align="center">
-        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/a24a6a89-9c32-4326-8fc0-b27cd6a71a9c" />
-        <br />
-        <strong>Cursed Ruins</strong>
-        <br />
-        <a href="https://cursed-ruins-slot.vercel.app/?sessionID=test123&rgs_url=test&lang=en&demo=true">Visit</a>
       </td>
     </tr>
     <tr>
