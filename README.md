@@ -33,7 +33,7 @@
         <br />
         <strong>Cursed Ruins</strong>
         <br />
-        <a href="https://cursed-ruins-slot.vercel.app/?sessionID=…&rgs_url=…&lang=en&currency=USD&device=desktop&social=false&demo=false" target="_blank" rel="noopener noreferrer">Visit</a>
+        <a href="https://cursed-ruins-slot.vercel.app/?sessionID=test123&lang=en&currency=USD&device=desktop&social=false&demo=true" target="_blank" rel="noopener noreferrer">Visit</a>
       </td>
       <td align="center">
         <img width="260" alt="Fathom" src="https://github.com/user-attachments/assets/33f985d6-df78-4500-b1be-fb541d8ea530" />
