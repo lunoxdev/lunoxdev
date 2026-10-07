@@ -29,7 +29,7 @@
   <table>
     <tr>
       <td align="center">
-        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/776cbea1-a811-4de4-adc0-712adbe82958" />
+        <img width="260" alt="Cursed Ruins" src="https://github.com/user-attachments/assets/28bdee92-b993-4659-a7b3-a96fd2a2c545" />
         <br />
         <strong>Cursed Ruins</strong>
         <br />
